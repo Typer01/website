@@ -2,14 +2,18 @@
 
 
 body {
-  background-color: lightblue;
+  
+  background-image: url("112121.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 h1 {
   color: RED;
-  background-image: url("112121.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
-  padding: 100px 200px 100px 200px;
+
+  padding-left: 100px;
+  padding-Right: 200px;
+  padding-Top: 100px;
+  padding-Bottom: 100px;
 }
 </style>
