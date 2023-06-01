@@ -9,6 +9,9 @@ h1 {
   color: white;
   background-image: url("112121.jpg");
   background-size: contain;
-
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 </style>
